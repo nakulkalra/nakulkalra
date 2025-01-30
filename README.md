@@ -44,17 +44,6 @@ const nakul = {
 - Working with PERN stack and cloud infrastructure
 - Collaborating with cross-functional teams
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nakulkalra&show_icons=true&theme=radical)](https://github.com/nakulkalra)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nakulkalra&layout=compact&theme=radical)](https://github.com/nakulkalra)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nakulkalra&theme=radical)](https://github.com/nakulkalra)
-
-</div>
 
 ## 🎯 Skills
 
