@@ -39,7 +39,7 @@ const nakul = {
 
 ## 🏢 Professional Experience
 
-**Jr. Developer @ NoPixel India Pvt Ltd** *(2023 - Present)*
+**Jr. Developer @ NoPixel India Pvt Ltd** *(2024 - 2025)*
 - Developing and maintaining production-level applications
 - Working with PERN stack and cloud infrastructure
 - Collaborating with cross-functional teams
